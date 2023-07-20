@@ -13,11 +13,11 @@ then:
   - yarn
 
 for frontend:
-- Type this to run:
+- Type this on your terminal to run:
   - cd public
   - yarn start
 
 for backend:
-- Type this to run:
+- Type this on your terminal to run:
   - cd server
   - yarn start
